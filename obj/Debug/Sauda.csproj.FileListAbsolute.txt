@@ -1,0 +1,7 @@
+C:\DEV\C#\Sauda\Sauda\bin\Debug\Sauda.exe.config
+C:\DEV\C#\Sauda\Sauda\bin\Debug\Sauda.exe
+C:\DEV\C#\Sauda\Sauda\bin\Debug\Sauda.pdb
+C:\DEV\C#\Sauda\Sauda\obj\Debug\Sauda.csproj.AssemblyReference.cache
+C:\DEV\C#\Sauda\Sauda\obj\Debug\Sauda.csproj.CoreCompileInputs.cache
+C:\DEV\C#\Sauda\Sauda\obj\Debug\Sauda.exe
+C:\DEV\C#\Sauda\Sauda\obj\Debug\Sauda.pdb
